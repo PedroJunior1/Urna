@@ -1,0 +1,10 @@
+C:\Users\lapsobeta\source\repos\Urna\URNA-BOLSONARO\URNA-BOLSONARO\bin\Debug\URNA-BOLSONARO.exe.config
+C:\Users\lapsobeta\source\repos\Urna\URNA-BOLSONARO\URNA-BOLSONARO\bin\Debug\URNA-BOLSONARO.exe
+C:\Users\lapsobeta\source\repos\Urna\URNA-BOLSONARO\URNA-BOLSONARO\bin\Debug\URNA-BOLSONARO.pdb
+C:\Users\lapsobeta\source\repos\Urna\URNA-BOLSONARO\URNA-BOLSONARO\obj\Debug\URNA-BOLSONARO.csprojAssemblyReference.cache
+C:\Users\lapsobeta\source\repos\Urna\URNA-BOLSONARO\URNA-BOLSONARO\obj\Debug\URNA_BOLSONARO.Properties.Resources.resources
+C:\Users\lapsobeta\source\repos\Urna\URNA-BOLSONARO\URNA-BOLSONARO\obj\Debug\URNA-BOLSONARO.csproj.GenerateResource.cache
+C:\Users\lapsobeta\source\repos\Urna\URNA-BOLSONARO\URNA-BOLSONARO\obj\Debug\URNA-BOLSONARO.csproj.CoreCompileInputs.cache
+C:\Users\lapsobeta\source\repos\Urna\URNA-BOLSONARO\URNA-BOLSONARO\obj\Debug\URNA-BOLSONARO.exe
+C:\Users\lapsobeta\source\repos\Urna\URNA-BOLSONARO\URNA-BOLSONARO\obj\Debug\URNA-BOLSONARO.pdb
+C:\Users\lapsobeta\source\repos\Urna\URNA-BOLSONARO\URNA-BOLSONARO\obj\Debug\URNA_BOLSONARO.UrnaEletrônica.resources
