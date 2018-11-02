@@ -365,7 +365,7 @@
             this.lblBranco.Font = new System.Drawing.Font("Consolas", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblBranco.Location = new System.Drawing.Point(666, 10);
             this.lblBranco.Name = "lblBranco";
-            this.lblBranco.Size = new System.Drawing.Size(89, 23);
+            this.lblBranco.Size = new System.Drawing.Size(98, 23);
             this.lblBranco.TabIndex = 21;
             this.lblBranco.Text = "Branco:";
             this.lblBranco.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;

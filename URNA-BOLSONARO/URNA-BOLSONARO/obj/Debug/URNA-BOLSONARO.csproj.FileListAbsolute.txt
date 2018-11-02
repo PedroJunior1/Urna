@@ -8,3 +8,13 @@ C:\Users\lapsobeta\source\repos\Urna\URNA-BOLSONARO\URNA-BOLSONARO\obj\Debug\URN
 C:\Users\lapsobeta\source\repos\Urna\URNA-BOLSONARO\URNA-BOLSONARO\obj\Debug\URNA-BOLSONARO.exe
 C:\Users\lapsobeta\source\repos\Urna\URNA-BOLSONARO\URNA-BOLSONARO\obj\Debug\URNA-BOLSONARO.pdb
 C:\Users\lapsobeta\source\repos\Urna\URNA-BOLSONARO\URNA-BOLSONARO\obj\Debug\URNA_BOLSONARO.UrnaEletrônica.resources
+C:\Users\thiag\Source\Repos\Urna\URNA-BOLSONARO\URNA-BOLSONARO\bin\Debug\URNA-BOLSONARO.exe.config
+C:\Users\thiag\Source\Repos\Urna\URNA-BOLSONARO\URNA-BOLSONARO\bin\Debug\URNA-BOLSONARO.exe
+C:\Users\thiag\Source\Repos\Urna\URNA-BOLSONARO\URNA-BOLSONARO\bin\Debug\URNA-BOLSONARO.pdb
+C:\Users\thiag\Source\Repos\Urna\URNA-BOLSONARO\URNA-BOLSONARO\obj\Debug\URNA-BOLSONARO.csprojAssemblyReference.cache
+C:\Users\thiag\Source\Repos\Urna\URNA-BOLSONARO\URNA-BOLSONARO\obj\Debug\URNA_BOLSONARO.UrnaEletrônica.resources
+C:\Users\thiag\Source\Repos\Urna\URNA-BOLSONARO\URNA-BOLSONARO\obj\Debug\URNA_BOLSONARO.Properties.Resources.resources
+C:\Users\thiag\Source\Repos\Urna\URNA-BOLSONARO\URNA-BOLSONARO\obj\Debug\URNA-BOLSONARO.csproj.GenerateResource.cache
+C:\Users\thiag\Source\Repos\Urna\URNA-BOLSONARO\URNA-BOLSONARO\obj\Debug\URNA-BOLSONARO.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Source\Repos\Urna\URNA-BOLSONARO\URNA-BOLSONARO\obj\Debug\URNA-BOLSONARO.exe
+C:\Users\thiag\Source\Repos\Urna\URNA-BOLSONARO\URNA-BOLSONARO\obj\Debug\URNA-BOLSONARO.pdb
