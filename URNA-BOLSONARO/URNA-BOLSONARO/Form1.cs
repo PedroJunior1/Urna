@@ -14,37 +14,25 @@ namespace URNA_BOLSONARO
     {
         string voto;
         int Bolso, Haddad, Ciro, Daciolo, Alk, Nulo, Branco;
-
-
-
         public UrnaEletrônica()
         {
             InitializeComponent();
         }
-
         private void UrnaEletrônica_Load(object sender, EventArgs e)
         {
-
         }
-
         private void btnNulo_Click(object sender, EventArgs e)
         {
             Branco++; lblBranco.Text = "Branco:" + Branco.ToString();
         }
-
         private void ButtonClass(object sender, EventArgs e)
         {
             Button x = (Button)sender;
             textBox1.Text = textBox1.Text + x.Text;
         }
-
         private void textBox1_TextChanged(object sender, EventArgs e)
-        
-
             {
-
             }
-
             private void btnCorrige_Click(object sender, EventArgs e)
             {
                 textBox1.Text = "";
@@ -58,39 +46,31 @@ namespace URNA_BOLSONARO
                 {
                     case "13":
                         pbxCandidato.Load("Haddad.jpg");
-                        Haddad++; lblHadda.Text = "Haddad:" + Haddad.ToString(); break;
-
-                    break;
+                        Haddad++; lblHadda.Text = "Haddad:" + Haddad.ToString();
+                    break;           
                     case "45":
                         pbxCandidato.Load("Alk.jpg");
-                        Alk++; lblAlk.Text = "Alckmim:" + Alk.ToString(); break;
-
+                        Alk++; lblAlk.Text = "Alckmim:" + Alk.ToString();
                     break;
                     case "17":
                         pbxCandidato.Load("Bolso.jpg");
-                        Bolso++; lblBolso.Text = "Bolsonaro:" + Bolso.ToString(); break;
-
+                        Bolso++; lblBolso.Text = "Bolsonaro:" + Bolso.ToString();
                     break;
                     case "12":
                         pbxCandidato.Load("Ciro.jpg");
-                        Ciro++; lblCiro.Text = "Ciro:" + Ciro.ToString(); break;
-
+                        Ciro++; lblCiro.Text = "Ciro:" + Ciro.ToString();
                     break;
                     case "51":
                         pbxCandidato.Load("Cabo.jpg");
-                        Daciolo++; lblDaci.Text = "Daciolo:" + Daciolo.ToString(); break;
-
+                        Daciolo++; lblDaci.Text = "Daciolo:" + Daciolo.ToString();
+                    break;
                     default:
                         Nulo++; lblNulo.Text = "Nulo:" + Nulo.ToString();
-
-
                     break;
                 }
             }
-
         private void label1_Click(object sender, EventArgs e)
         {
-
         }
     }
 }
