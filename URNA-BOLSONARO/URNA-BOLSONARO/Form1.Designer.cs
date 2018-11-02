@@ -400,6 +400,8 @@
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.MaximizeBox = false;
+            this.MaximumSize = new System.Drawing.Size(816, 488);
+            this.MinimumSize = new System.Drawing.Size(816, 488);
             this.Name = "UrnaEletrônica";
             this.Text = "Urna Eletrônica";
             this.Load += new System.EventHandler(this.UrnaEletrônica_Load);
